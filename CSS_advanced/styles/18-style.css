@@ -72,6 +72,9 @@ visually-hidden {
 .footer {
     padding: var(--footer-padding);
 }
+.navbar-menu {
+    float: right;
+}
 .nav {
     margin: 0;
     padding: 0;
