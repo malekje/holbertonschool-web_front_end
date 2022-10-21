@@ -99,7 +99,7 @@ visually-hidden {
 }
 ul.row {
     margin: 0;
-    padding: 0%;
+    padding: 0;
     list-style: none;
 }
 .col-1-3 {
@@ -113,7 +113,7 @@ ul.row {
     padding: 0.5rem;
 }
 .footer-copyright {
-    margin: none;
+    margin: 0;
     font-size: var(--font-size-small);
     color: var(--text-color);
 }
