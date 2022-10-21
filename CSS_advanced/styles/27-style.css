@@ -180,7 +180,7 @@ ul.row {
     color: var(--color-primary);
 }
 .section-hero {
-    background-size: 2rem;
+    background-size: 2;
     width: 90rem;
     height: auto;
 }
@@ -188,7 +188,7 @@ ul.row {
     margin-bottom: 5rem;
 }
 .section-hero .section-inner {
-    padding-top: 10rem 40rem 2rem 0;
+    padding: 10rem 40rem 2rem 0;
 }
 :root{
     --color-primary: #d73953;
